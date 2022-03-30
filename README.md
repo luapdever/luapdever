@@ -2,7 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=luap-dever&style=for-the-badge&url=https%3A%2F%2Fluap-dever.netlify.app)](https://luap-dever.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SmithZannou?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fluapdever&screen_name=SmithZannou)
-[![Instagram Follow](https://img.shields.io/instagram/follow/luapdever?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/luapdever)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luapdever)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-zannou-b253a2205)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/paulsmith.zannou)
 
 ## I'm a Developer, and Artist!!
 
