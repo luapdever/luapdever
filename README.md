@@ -36,7 +36,11 @@
 
 [<img align="left" alt="Dever Website" width="200px" src="https://luap-dever.netlify.app/_nuxt/img/DEVER.417e24a.png" />](https://luap-dever.netlify.app)
 
----
+
+<br />
+<br />
+<br />
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
