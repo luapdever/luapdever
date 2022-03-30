@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luapdever)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-zannou-b253a2205)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/paulsmith.zannou)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXkxuNsr2KgHNdavIenmI1w?logo=youtube&logoColor=red&style=for-the-badge)][https://www.youtube.com/channel/UCXkxuNsr2KgHNdavIenmI1w]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXkxuNsr2KgHNdavIenmI1w?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCXkxuNsr2KgHNdavIenmI1w)
 
 ## I'm a Developer, and Artist!!
 
