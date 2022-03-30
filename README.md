@@ -3,11 +3,6 @@
 [![Website](https://img.shields.io/website?label=luap-dever&style=for-the-badge&url=https%3A%2F%2Fluap-dever.netlify.app)](https://luap-dever.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SmithZannou?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fluapdever&screen_name=SmithZannou)
 
-
-# Visit my website
-
-[<img align="left" alt="Dever Website" width="200px" src="https://luap-dever.netlify.app/_nuxt/img/DEVER.417e24a.png" />](https://luap-dever.netlify.app)
-
 ## I'm a Developer, and Artist!!
 
 - 😻 I’m currently learning everything 🤣
@@ -36,6 +31,10 @@
 
 <br />
 <br />
+
+# Visit my website
+
+[<img align="left" alt="Dever Website" width="200px" src="https://luap-dever.netlify.app/_nuxt/img/DEVER.417e24a.png" />](https://luap-dever.netlify.app)
 
 <!--END_SECTION:activity-->
 
