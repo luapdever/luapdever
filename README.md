@@ -1,6 +1,6 @@
 # Hello, I'm Paul - aka [Luap Dever](https://luap-dever.netlify.app) 👋 
 
-[![Website](https://img.shields.io/website?label=luap-dever&style=for-the-badge&url=https%3A%2F%2Fluap-dever)](https://luap-dever.netlify.app)
+[![Website](https://img.shields.io/website?label=luap-dever&style=for-the-badge&url=https%3A%2F%2Fluap-dever.netlify.app)](https://luap-dever.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SmithZannou?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fluapdever&screen_name=SmithZannou)
 
 ## I'm a Developer, and Artist!!
@@ -29,16 +29,13 @@
 <img align="left" alt="Dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
 
-<br />
-<br />
+[<br />]
+[<br />]
 
 # Visit my website
 
 [<img align="left" alt="Dever Website" width="200px" src="https://luap-dever.netlify.app/_nuxt/img/DEVER.417e24a.png" />](https://luap-dever.netlify.app)
 
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
