@@ -38,7 +38,7 @@
 
 # Visit my website
 
-[<img align="left" alt="Dever Website" width="200px" src="https://luap-dever.me/_next/static/media/DEVER.9d62ac06.svg" />](https://luap-dever.me)
+[<img width="50" align="left" alt="Dever Website" width="200px" src="https://luap-dever.me/_next/static/media/DEVER.9d62ac06.svg" />](https://luap-dever.me)
 
 
 <br />
