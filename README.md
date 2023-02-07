@@ -1,4 +1,4 @@
-# Hello, I'm Paul - aka [Luap Dever](https://luap-dever.netlify.app) 👋 
+# Hello, I'm Paul - aka [Luap Dever](https://luap-dever.me) 👋 
 
 [![Website](https://img.shields.io/website?label=luap-dever&style=for-the-badge&url=https%3A%2F%2Fluap-dever.me)](https://luap-dever.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SmithZannou?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fluapdever&screen_name=SmithZannou)
