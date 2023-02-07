@@ -11,7 +11,7 @@
 
 - 😻 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2022 Goals: Learn more about Web 4.0
+- 🥅 2023 Goals: Become a MERN/MERVN developper
 - ⚡ Fun fact: I love to sing and compose music
 
 ### Languages and Tools:
